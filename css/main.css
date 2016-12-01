@@ -1,0 +1,73 @@
+*{
+	padding:0;
+	margin:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+}
+.Container{
+	margin-left:70px;
+	margin-right:70px;
+	width:90%;
+}
+
+/* header */
+.logo{
+	color: #47a3da;
+	margin:10px 10px 10px 65px;
+	font-size:20px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.sub-title{
+	color: #47a3da;
+	margin:10px 10px 10px 65px;
+	font-size:40px;
+	font-family: 'PT Sans', sans-serif;
+}
+/*section*/
+ul, li{
+	display:inline-block;
+}
+
+.rocket{
+	width: 70%;
+    float: left;
+    height: 260px;
+    text-align: center;
+}
+.sun
+.moon
+.venus
+.mars
+.genderless
+
+/*icons*/
+..fa-arrow-circle-o-left, .fa-arrow-circle-o-right, .fa-archive, .fa-tint{
+	color: #47a3da;
+	font-size:35px;
+	position: relative;
+	left:860px;
+	border:3px solid blue ;
+}
+
+.fa-rocket{
+	color: #47a3da;
+}
+.fa-sun-o{
+	color: #47a3da;
+}
+.fa-moon-o{
+	color: #47a3da;
+}
+.fa-venus{
+	color: #47a3da;
+}
+.fa-mars{
+	color: #47a3da;
+}
+.fa-genderless{
+	color: #47a3da;	
+}
+
+/*Media*/
